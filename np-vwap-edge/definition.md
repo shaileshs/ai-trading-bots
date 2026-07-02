@@ -1,0 +1,1 @@
+Narendra to drop a basic definition of the strategy.
