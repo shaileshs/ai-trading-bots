@@ -39,3 +39,5 @@ This is a scaled dollar-cost-averaging (DCA) strategy: enter long on an oversold
 - What RSI threshold, VIX minimum, and APTR multiplier values are configured?
 - Position sizing per leg — fixed dollar amount, or increasing/decreasing per tranche?
 - Which symbols/watchlist is this intended to run against?
+
+Small change
